@@ -1,3 +1,4 @@
+import 'dart:async';
 import 'package:flutter/widgets.dart';
 import 'package:flutter_map/src/layer/layer.dart';
 import 'package:flutter_map/src/map/map.dart';
